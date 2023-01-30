@@ -1,0 +1,44 @@
+{
+  "usuarios": [
+    {
+      "id": 7,
+      "name": "Kurt Corbain",
+      "username": "kcorbain",
+      "email": "kcorbain@billy.biz",
+      "city": "Melila",
+      "phone": "636366132"
+    },
+    {
+      "id": 8,
+      "username": "jasdf",
+      "name": "Juan ",
+      "email": "asdf@agse.es",
+      "city": "Vigo",
+      "phone": "987654312"
+    },
+    {
+      "id": 9,
+      "username": "epresley",
+      "name": "Elvis",
+      "email": "epresley@asdf.es",
+      "city": "Madrid",
+      "phone": "654321987"
+    },
+    {
+      "id": 10,
+      "username": "asdf",
+      "name": "asdf",
+      "email": "asdf@asdf.es",
+      "city": "Logroño",
+      "phone": "654987"
+    },
+    {
+      "id": 11,
+      "username": "",
+      "name": "asdfdsf",
+      "email": "asdf@asdfh.com",
+      "city": "gggoo",
+      "phone": "987654329"
+    }
+  ]
+}
